@@ -5,9 +5,10 @@ This project showcases my skills, projects, and interests while demonstrating pr
 The goal of this project is to demonstrate the my expertise in web development fundamentals, focusing on responsive design, interactivity, and creative problem-solving
 
 # Features
-- [Responsive Design]
-- [Multi-Page Structure]
-- [Styling and Animations]
-- [Accessibility Feature]
-- [Technology Stack]
-- [Version Control and Hosting]
+- Responsive Design
+- Multi-Page Structure
+- Styling and Animations
+- Accessibility Feature
+
+## Support
+For support, contact us via a helpline
