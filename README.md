@@ -62,7 +62,7 @@ You can view the live project here: [Live Demo on GitHub Pages](https://eun424.g
 2. Use the contact form to send inquiries (form validation in place).
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under DIV
 
 ### Acknowledgements
 Inspired by the Developers in Vogue Tech Accelerator Program.
