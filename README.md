@@ -56,9 +56,6 @@ You can view the live project here: [Live Demo on GitHub Pages](https://eun424.g
 - Git installed locally for cloning the repository.
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
 
 ### Usage
 1. Explore the website to view personal details, skills, and projects.
